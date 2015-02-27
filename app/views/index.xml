@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container" modal="true">
+		<WebView url="http://www.twitch.tv/sacriel/embed" top="0%"/>
+		<WebView url="http://www.twitch.tv/nightblue3/embed" top="41%"/>
+	</Window>
+</Alloy>

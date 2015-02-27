@@ -1,0 +1,16 @@
+".container": {
+	backgroundColor:"white"
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"WebView":{
+	width: Ti.UI.SIZE,
+	height: "40%",
+	borderRadius: "1px",
+    borderWidth: "1px"
+}
